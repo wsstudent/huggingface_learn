@@ -1,0 +1,13 @@
+{
+  "in_channels": 3,
+  "model_type": "resnet",
+  "num_channels": 64,
+  "num_classes": 176,
+  "num_residuals": [
+    2,
+    2,
+    2,
+    2
+  ],
+  "transformers_version": "4.45.2"
+}
